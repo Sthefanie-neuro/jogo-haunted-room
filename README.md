@@ -2,8 +2,8 @@
 
 ### Um jogo de sobrevivência e coleta em uma caverna assombrada, desenvolvido com Python e Pygame Zero.
 
-![GIF da jogabilidade de Haunted Room](https-github-com-Sthefanie-neuro-jogo-haunted-room-blob-main-gameplay-gif-raw-true.gif)
-> *Nota: Substitua o link acima pelo GIF da sua jogabilidade!*
+![GIF da jogabilidade de Haunted Room](jogo_haunted_room.gif)
+
 
 ---
 
