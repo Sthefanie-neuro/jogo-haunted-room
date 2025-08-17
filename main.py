@@ -335,9 +335,9 @@ def reset_game():
     if is_music_on:
         try:
             music.set_volume(0.5)
-            music.play('background2.wav')
+            music.play('background.wav')
         except Exception as e:
-            print(f"Aviso: Não foi possível tocar a música 'background2.wav'. Erro: {e}")
+            print(f"Aviso: Não foi possível tocar a música 'background.wav'. Erro: {e}")
 
 def hide_exit_message():
     global show_exit_message
